@@ -44,4 +44,4 @@ TIL을 하며 핵심을 파악하는 능력 , 개념을 완전히 학습하는 �
 나중에 깨닫더라도 실천해보기
 
 
-##### 참고 : https://traceofpassion.github.io/2020/k-series/
+##### 참고 : https://traceofpassion.github.io/2020/k-series/ , kprototype 파이썬 라이브러리 깃허브 저장소 https://github.com/nicodv/kmodes/blob/master/kmodes/kprototypes.py
